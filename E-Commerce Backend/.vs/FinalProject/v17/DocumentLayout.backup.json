@@ -1,0 +1,530 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EE93E6-1ED4-4627-BC74-665EABC9A2FD}|FinalProject\\FinalProject.csproj|d:\\academics\\semester 14\\advance .net\\projects\\finalproject\\finalproject\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EE93E6-1ED4-4627-BC74-665EABC9A2FD}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A98915E-C2CB-40F9-B3FD-E126C0F4F29E}|BLL\\BLL.csproj|d:\\academics\\semester 14\\advance .net\\projects\\finalproject\\bll\\services\\orderdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A98915E-C2CB-40F9-B3FD-E126C0F4F29E}|BLL\\BLL.csproj|solutionrelative:bll\\services\\orderdetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EE93E6-1ED4-4627-BC74-665EABC9A2FD}|FinalProject\\FinalProject.csproj|d:\\academics\\semester 14\\advance .net\\projects\\finalproject\\finalproject\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EE93E6-1ED4-4627-BC74-665EABC9A2FD}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A98915E-C2CB-40F9-B3FD-E126C0F4F29E}|BLL\\BLL.csproj|d:\\academics\\semester 14\\advance .net\\projects\\finalproject\\bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A98915E-C2CB-40F9-B3FD-E126C0F4F29E}|BLL\\BLL.csproj|solutionrelative:bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16433FC1-9EA9-48ED-92F4-720D7FA77300}|DAL\\DAL.csproj|d:\\academics\\semester 14\\advance .net\\projects\\finalproject\\dal\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16433FC1-9EA9-48ED-92F4-720D7FA77300}|DAL\\DAL.csproj|solutionrelative:dal\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16433FC1-9EA9-48ED-92F4-720D7FA77300}|DAL\\DAL.csproj|d:\\academics\\semester 14\\advance .net\\projects\\finalproject\\dal\\repos\\orderdetailsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16433FC1-9EA9-48ED-92F4-720D7FA77300}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\orderdetailsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EE93E6-1ED4-4627-BC74-665EABC9A2FD}|FinalProject\\FinalProject.csproj|d:\\academics\\semester 14\\advance .net\\projects\\finalproject\\finalproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EE93E6-1ED4-4627-BC74-665EABC9A2FD}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A98915E-C2CB-40F9-B3FD-E126C0F4F29E}|BLL\\BLL.csproj|d:\\academics\\semester 14\\advance .net\\projects\\finalproject\\bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A98915E-C2CB-40F9-B3FD-E126C0F4F29E}|BLL\\BLL.csproj|solutionrelative:bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A98915E-C2CB-40F9-B3FD-E126C0F4F29E}|BLL\\BLL.csproj|d:\\academics\\semester 14\\advance .net\\projects\\finalproject\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A98915E-C2CB-40F9-B3FD-E126C0F4F29E}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16433FC1-9EA9-48ED-92F4-720D7FA77300}|DAL\\DAL.csproj|d:\\academics\\semester 14\\advance .net\\projects\\finalproject\\dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16433FC1-9EA9-48ED-92F4-720D7FA77300}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16433FC1-9EA9-48ED-92F4-720D7FA77300}|DAL\\DAL.csproj|d:\\academics\\semester 14\\advance .net\\projects\\finalproject\\dal\\repos\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16433FC1-9EA9-48ED-92F4-720D7FA77300}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16433FC1-9EA9-48ED-92F4-720D7FA77300}|DAL\\DAL.csproj|d:\\academics\\semester 14\\advance .net\\projects\\finalproject\\dal\\repos\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16433FC1-9EA9-48ED-92F4-720D7FA77300}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EE93E6-1ED4-4627-BC74-665EABC9A2FD}|FinalProject\\FinalProject.csproj|d:\\academics\\semester 14\\advance .net\\projects\\finalproject\\finalproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EE93E6-1ED4-4627-BC74-665EABC9A2FD}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16433FC1-9EA9-48ED-92F4-720D7FA77300}|DAL\\DAL.csproj|d:\\academics\\semester 14\\advance .net\\projects\\finalproject\\dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16433FC1-9EA9-48ED-92F4-720D7FA77300}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16433FC1-9EA9-48ED-92F4-720D7FA77300}|DAL\\DAL.csproj|d:\\academics\\semester 14\\advance .net\\projects\\finalproject\\dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16433FC1-9EA9-48ED-92F4-720D7FA77300}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A98915E-C2CB-40F9-B3FD-E126C0F4F29E}|BLL\\BLL.csproj|d:\\academics\\semester 14\\advance .net\\projects\\finalproject\\bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A98915E-C2CB-40F9-B3FD-E126C0F4F29E}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16433FC1-9EA9-48ED-92F4-720D7FA77300}|DAL\\DAL.csproj|d:\\academics\\semester 14\\advance .net\\projects\\finalproject\\dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16433FC1-9EA9-48ED-92F4-720D7FA77300}|DAL\\DAL.csproj|solutionrelative:dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A98915E-C2CB-40F9-B3FD-E126C0F4F29E}|BLL\\BLL.csproj|d:\\academics\\semester 14\\advance .net\\projects\\finalproject\\bll\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A98915E-C2CB-40F9-B3FD-E126C0F4F29E}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16433FC1-9EA9-48ED-92F4-720D7FA77300}|DAL\\DAL.csproj|d:\\academics\\semester 14\\advance .net\\projects\\finalproject\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16433FC1-9EA9-48ED-92F4-720D7FA77300}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16433FC1-9EA9-48ED-92F4-720D7FA77300}|DAL\\DAL.csproj|d:\\academics\\semester 14\\advance .net\\projects\\finalproject\\dal\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16433FC1-9EA9-48ED-92F4-720D7FA77300}|DAL\\DAL.csproj|solutionrelative:dal\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A98915E-C2CB-40F9-B3FD-E126C0F4F29E}|BLL\\BLL.csproj|d:\\academics\\semester 14\\advance .net\\projects\\finalproject\\bll\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A98915E-C2CB-40F9-B3FD-E126C0F4F29E}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A98915E-C2CB-40F9-B3FD-E126C0F4F29E}|BLL\\BLL.csproj|d:\\academics\\semester 14\\advance .net\\projects\\finalproject\\bll\\dtos\\orderdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A98915E-C2CB-40F9-B3FD-E126C0F4F29E}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\orderdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16433FC1-9EA9-48ED-92F4-720D7FA77300}|DAL\\DAL.csproj|d:\\academics\\semester 14\\advance .net\\projects\\finalproject\\dal\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16433FC1-9EA9-48ED-92F4-720D7FA77300}|DAL\\DAL.csproj|solutionrelative:dal\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16433FC1-9EA9-48ED-92F4-720D7FA77300}|DAL\\DAL.csproj|d:\\academics\\semester 14\\advance .net\\projects\\finalproject\\dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16433FC1-9EA9-48ED-92F4-720D7FA77300}|DAL\\DAL.csproj|solutionrelative:dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16433FC1-9EA9-48ED-92F4-720D7FA77300}|DAL\\DAL.csproj|d:\\academics\\semester 14\\advance .net\\projects\\finalproject\\dal\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16433FC1-9EA9-48ED-92F4-720D7FA77300}|DAL\\DAL.csproj|solutionrelative:dal\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16433FC1-9EA9-48ED-92F4-720D7FA77300}|DAL\\DAL.csproj|d:\\academics\\semester 14\\advance .net\\projects\\finalproject\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16433FC1-9EA9-48ED-92F4-720D7FA77300}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16433FC1-9EA9-48ED-92F4-720D7FA77300}|DAL\\DAL.csproj|d:\\academics\\semester 14\\advance .net\\projects\\finalproject\\dal\\migrations\\202506251810078_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16433FC1-9EA9-48ED-92F4-720D7FA77300}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202506251810078_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EE93E6-1ED4-4627-BC74-665EABC9A2FD}|FinalProject\\FinalProject.csproj|d:\\academics\\semester 14\\advance .net\\projects\\finalproject\\finalproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D7EE93E6-1ED4-4627-BC74-665EABC9A2FD}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16433FC1-9EA9-48ED-92F4-720D7FA77300}|DAL\\DAL.csproj|d:\\academics\\semester 14\\advance .net\\projects\\finalproject\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16433FC1-9EA9-48ED-92F4-720D7FA77300}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A98915E-C2CB-40F9-B3FD-E126C0F4F29E}|BLL\\BLL.csproj|d:\\academics\\semester 14\\advance .net\\projects\\finalproject\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A98915E-C2CB-40F9-B3FD-E126C0F4F29E}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDetailsController.cs",
+              "DocumentMoniker": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\FinalProject\\Controllers\\OrderDetailsController.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Controllers\\OrderDetailsController.cs",
+              "ToolTip": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\FinalProject\\Controllers\\OrderDetailsController.cs",
+              "RelativeToolTip": "FinalProject\\Controllers\\OrderDetailsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T21:07:47.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDetailsService.cs",
+              "DocumentMoniker": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\BLL\\Services\\OrderDetailsService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\OrderDetailsService.cs",
+              "ToolTip": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\BLL\\Services\\OrderDetailsService.cs",
+              "RelativeToolTip": "BLL\\Services\\OrderDetailsService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T21:04:19.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\FinalProject\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\FinalProject\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "FinalProject\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T21:00:18.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\BLL\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\OrderService.cs",
+              "ToolTip": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\BLL\\Services\\OrderService.cs",
+              "RelativeToolTip": "BLL\\Services\\OrderService.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:51:47.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\FinalProject\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\FinalProject\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "FinalProject\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:45:50.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\BLL\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\BLL\\Services\\ProductService.cs",
+              "RelativeToolTip": "BLL\\Services\\ProductService.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAwwFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:38:00.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\FinalProject\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\FinalProject\\Controllers\\UserController.cs",
+              "RelativeToolTip": "FinalProject\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:59:49.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
+              "ToolTip": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "BLL\\Services\\UserService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:32:24.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\BLL\\DTOs\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\OrderDTO.cs",
+              "ToolTip": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\BLL\\DTOs\\OrderDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\OrderDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:16:02.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderDetailsDTO.cs",
+              "DocumentMoniker": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\BLL\\DTOs\\OrderDetailsDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\OrderDetailsDTO.cs",
+              "ToolTip": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\BLL\\DTOs\\OrderDetailsDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\OrderDetailsDTO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA9wBYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:15:09.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\BLL\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\ProductDTO.cs",
+              "ToolTip": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\BLL\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:14:18.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\BLL\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\UserDTO.cs",
+              "ToolTip": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\BLL\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:12:01.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\DAL\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
+              "ToolTip": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\DAL\\DataAccessFactory.cs",
+              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:03:14.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDetailsRepo.cs",
+              "DocumentMoniker": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\DAL\\Repos\\OrderDetailsRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\OrderDetailsRepo.cs",
+              "ToolTip": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\DAL\\Repos\\OrderDetailsRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\OrderDetailsRepo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:59:28.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderRepo.cs",
+              "DocumentMoniker": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\DAL\\Repos\\OrderRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\OrderRepo.cs",
+              "ToolTip": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\DAL\\Repos\\OrderRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\OrderRepo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:53:05.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\DAL\\Repos\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\ProductRepo.cs",
+              "ToolTip": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\DAL\\Repos\\ProductRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\ProductRepo.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:47:21.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\DAL\\Repos\\UserRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\UserRepo.cs",
+              "ToolTip": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\DAL\\Repos\\UserRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\UserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:28:50.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\DAL\\Repos\\Repo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\Repo.cs",
+              "ToolTip": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\DAL\\Repos\\Repo.cs",
+              "RelativeToolTip": "DAL\\Repos\\Repo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:25:59.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepo.cs",
+              "ToolTip": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:21:31.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "202506251810078_initDB.cs",
+              "DocumentMoniker": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\DAL\\Migrations\\202506251810078_initDB.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202506251810078_initDB.cs",
+              "ToolTip": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\DAL\\Migrations\\202506251810078_initDB.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202506251810078_initDB.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:10:21.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAFIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:54:27.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\FinalProject\\Web.config",
+              "RelativeDocumentMoniker": "FinalProject\\Web.config",
+              "ToolTip": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\FinalProject\\Web.config",
+              "RelativeToolTip": "FinalProject\\Web.config",
+              "ViewState": "AgIAADMAAAAAAAAAAAAkwDwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-25T16:47:23.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\DAL\\ProductContext.cs",
+              "RelativeDocumentMoniker": "DAL\\ProductContext.cs",
+              "ToolTip": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\DAL\\ProductContext.cs",
+              "RelativeToolTip": "DAL\\ProductContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:43:42.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\DAL\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Cart.cs",
+              "ToolTip": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\DAL\\Models\\Cart.cs",
+              "RelativeToolTip": "DAL\\Models\\Cart.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:29:10.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\DAL\\Models\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\OrderDetails.cs",
+              "ToolTip": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\DAL\\Models\\OrderDetails.cs",
+              "RelativeToolTip": "DAL\\Models\\OrderDetails.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwBYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:23:49.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\DAL\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Order.cs",
+              "ToolTip": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\DAL\\Models\\Order.cs",
+              "RelativeToolTip": "DAL\\Models\\Order.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:21:13.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\DAL\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Product.cs",
+              "ToolTip": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\DAL\\Models\\Product.cs",
+              "RelativeToolTip": "DAL\\Models\\Product.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:17:03.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\DAL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\User.cs",
+              "ToolTip": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\DAL\\Models\\User.cs",
+              "RelativeToolTip": "DAL\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:09:22.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:01:24.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "D:\\Academics\\Semester 14\\Advance .NET\\Projects\\FinalProject\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:00:52.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

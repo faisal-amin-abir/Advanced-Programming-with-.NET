@@ -1,0 +1,14 @@
+D:\Academics\Semester 14\Advance .NET\Projects\FinalProject\BLL\bin\Debug\BLL.dll
+D:\Academics\Semester 14\Advance .NET\Projects\FinalProject\BLL\bin\Debug\BLL.pdb
+D:\Academics\Semester 14\Advance .NET\Projects\FinalProject\BLL\bin\Debug\AutoMapper.dll
+D:\Academics\Semester 14\Advance .NET\Projects\FinalProject\BLL\bin\Debug\DAL.dll
+D:\Academics\Semester 14\Advance .NET\Projects\FinalProject\BLL\bin\Debug\EntityFramework.dll
+D:\Academics\Semester 14\Advance .NET\Projects\FinalProject\BLL\bin\Debug\DAL.pdb
+D:\Academics\Semester 14\Advance .NET\Projects\FinalProject\BLL\bin\Debug\DAL.dll.config
+D:\Academics\Semester 14\Advance .NET\Projects\FinalProject\BLL\bin\Debug\AutoMapper.xml
+D:\Academics\Semester 14\Advance .NET\Projects\FinalProject\BLL\bin\Debug\EntityFramework.xml
+D:\Academics\Semester 14\Advance .NET\Projects\FinalProject\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Academics\Semester 14\Advance .NET\Projects\FinalProject\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Academics\Semester 14\Advance .NET\Projects\FinalProject\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Academics\Semester 14\Advance .NET\Projects\FinalProject\BLL\obj\Debug\BLL.dll
+D:\Academics\Semester 14\Advance .NET\Projects\FinalProject\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,14 @@
+D:\Academics\Semester 14\Advance .NET\Projects\FinalProject\DAL\bin\Debug\DAL.dll.config
+D:\Academics\Semester 14\Advance .NET\Projects\FinalProject\DAL\bin\Debug\DAL.dll
+D:\Academics\Semester 14\Advance .NET\Projects\FinalProject\DAL\bin\Debug\DAL.pdb
+D:\Academics\Semester 14\Advance .NET\Projects\FinalProject\DAL\bin\Debug\EntityFramework.dll
+D:\Academics\Semester 14\Advance .NET\Projects\FinalProject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Academics\Semester 14\Advance .NET\Projects\FinalProject\DAL\bin\Debug\EntityFramework.xml
+D:\Academics\Semester 14\Advance .NET\Projects\FinalProject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Academics\Semester 14\Advance .NET\Projects\FinalProject\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Academics\Semester 14\Advance .NET\Projects\FinalProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Academics\Semester 14\Advance .NET\Projects\FinalProject\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Academics\Semester 14\Advance .NET\Projects\FinalProject\DAL\obj\Debug\DAL.dll
+D:\Academics\Semester 14\Advance .NET\Projects\FinalProject\DAL\obj\Debug\DAL.pdb
+D:\Academics\Semester 14\Advance .NET\Projects\FinalProject\DAL\obj\Debug\DAL.Migrations.initDB.resources
+D:\Academics\Semester 14\Advance .NET\Projects\FinalProject\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
