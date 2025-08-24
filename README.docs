@@ -4,12 +4,12 @@ A robust and scalable backend service for an e-commerce platform, developed usin
 Architecture 
 
 Overview
-
 This project follows the N-Tier Architecture principle, separating responsibilities into distinct layers to ensure maintainability, testability, and scalability. The main layers include:
 - Presentation Layer (ECommerce.Presentation): Contains the ASP.NET Web API controllers. Handles HTTP requests, formats responses, and serves as the entry point. Delegates business logic to lower layers.
 - Business Logic Layer (ECommerce.Business): Implements core logic, including services for validations, workflows, and business rules.
 - Data Access Layer (ECommerce.Data): Manages database interactions using Repository pattern and Entity Framework, performing CRUD operations while abstracting database logic.
-  
+
+
 Key Features
 •	User Management: Registration, authentication, and role-based authorization using JWT tokens.
 •	Product & Category Management: Full CRUD operations.
@@ -18,10 +18,14 @@ Key Features
 •	RESTful API: Clean and predictable endpoints.
 •	Entity Framework Code-First: Database schema managed through C# classes.
 •	Dependency Injection: Ensures loose coupling and testability.
+
+
 Prerequisites
 •	.NET Framework 4.8 Developer Pack
 •	Microsoft SQL Server (Express or Developer Edition)
 •	Visual Studio 2022 with ASP.NET and web development workload
+
+
 Setup Guide
 1.	Clone the Repository:
     git clone https://github.com/faisal-amin-abir/Advanced-Programming-with-.NET.git
