@@ -1,10 +1,15 @@
 E-Commerce Backend API
+
 A robust and scalable backend service for an e-commerce platform, developed using the N-Tier (Layered) Architecture on the .NET Framework. This API provides core functionality for managing products, categories, users, orders, and shopping carts.
-Architecture Overview
+Architecture 
+
+Overview
+
 This project follows the N-Tier Architecture principle, separating responsibilities into distinct layers to ensure maintainability, testability, and scalability. The main layers include:
 - Presentation Layer (ECommerce.Presentation): Contains the ASP.NET Web API controllers. Handles HTTP requests, formats responses, and serves as the entry point. Delegates business logic to lower layers.
 - Business Logic Layer (ECommerce.Business): Implements core logic, including services for validations, workflows, and business rules.
 - Data Access Layer (ECommerce.Data): Manages database interactions using Repository pattern and Entity Framework, performing CRUD operations while abstracting database logic.
+  
 Key Features
 •	User Management: Registration, authentication, and role-based authorization using JWT tokens.
 •	Product & Category Management: Full CRUD operations.
