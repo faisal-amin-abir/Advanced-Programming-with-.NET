@@ -1,6 +1,6 @@
 E-Commerce Backend API
 
-A robust and scalable backend service for an e-commerce platform, developed using the N-Tier (Layered) Architecture on the .NET Framework. This API provides core functionality for managing products, categories, users, orders, and shopping carts.
+A backend service for an e-commerce platform, developed using the N-Tier (Layered) Architecture on the .NET Framework. This API provides core functionality for managing products, categories, users, orders, and shopping carts.
 Architecture 
 
 Overview
